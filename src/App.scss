@@ -1,0 +1,75 @@
+.mainBox1
+{
+    background-color:black;
+}
+.logo{
+    height: 65px;
+    width:110px;
+    padding: 0px;
+}
+.profileIcon{
+    color:white;
+    margin-right: -80px;
+}
+.profileName
+{
+    margin-right: 20px;
+}
+.searchbox
+{
+    margin-left: -70px;
+
+}
+.imageHeight
+{
+    height: 75%;
+    width:100%;
+}
+.videoTab
+{
+    
+    height:35%;
+    width:35%;
+}
+.continueTitle
+{
+    margin-top: 5px;
+    color:white;
+}
+    
+
+.movieDetails{
+    color:white;
+    text-align: center;  
+    font-style: italic;
+
+}
+.videoBox
+{
+  width:40px;
+  height:60px;
+    border:2px solid brown;
+}
+.imageBox
+{
+    width:300px;
+    height:300px;
+    margin-top: 6px;
+}
+.videoTab
+{
+    width:300px;
+    height:300px;
+}
+.mainBox{
+    border: 2px solid gray;
+    width: 308px;
+   
+    display: inline-block;
+    margin-left: 55px;
+    margin-bottom: 10px;
+   
+}
+
+
+@import "../node_modules/bootstrap/scss/bootstrap.scss"
